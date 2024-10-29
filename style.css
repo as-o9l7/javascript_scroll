@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    text-align: center;
+    color:#6d482d;
+    background-color: #F8E0DB;
+  }
+  
+  h1 {
+    margin: 50vh 0;
+  }
+  
+  img {
+    max-width: 100%;
+    margin: 20vh 0;
+  }
+  
+  
